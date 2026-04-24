@@ -1,8 +1,9 @@
-streamlit==1.27.2
-pillow==9.4.0
-numpy==1.25.0
-ultralytics==8.0.171
-dill==0.3.7
+streamlit==1.33.0
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.220
 pillow
 numpy
 fpdf
+opencv-python-headless
+
