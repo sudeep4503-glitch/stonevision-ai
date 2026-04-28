@@ -1,5 +1,6 @@
---index-strategy unsafe-best-match
---extra-index-url https://download.pytorch.org/whl/cpu
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.2
+torchvision==0.17.2
 
 streamlit==1.35.0
 ultralytics==8.3.70
@@ -8,6 +9,3 @@ Pillow==10.4.0
 numpy==1.26.4
 fpdf2==2.7.9
 requests==2.32.3
-
-torch==2.9.0
-torchvision==0.24.0
